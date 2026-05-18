@@ -2,6 +2,9 @@
 
 `Sunsor` is a simple Windows Python app that switches your cursor profile based on time of day.
 
+<img width="1218" height="885" alt="Screenshot 2026-05-18 034742" src="https://github.com/user-attachments/assets/8b23ec86-131c-4caa-9d6d-1e1d4c4c9f8e" />
+
+
 ## What it does
 
 - Uses a day profile and a night profile
@@ -31,3 +34,9 @@ python sunsor.py
 - This app is for Windows.
 - It uses only Python standard library modules: `tkinter`, `winreg`, `ctypes`, and `zoneinfo`.
 - Applying a profile updates the current Windows user cursor settings and refreshes the cursors live.
+
+
+## More Screenshots
+
+<img width="974" height="639" alt="Screenshot 2026-05-18 034759" src="https://github.com/user-attachments/assets/abae757a-36e0-4461-86c8-cbf779f6f899" />
+<img width="897" height="724" alt="Screenshot 2026-05-18 034751" src="https://github.com/user-attachments/assets/1a595191-6b4b-4a68-8ffc-6883cd9547ea" />

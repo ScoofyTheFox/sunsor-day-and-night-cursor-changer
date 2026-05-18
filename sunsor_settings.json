@@ -1,0 +1,13 @@
+{
+  "timezone": "AUTO",
+  "day_start": "07:00",
+  "night_start": "18:00",
+  "day_profile": "Windows Default White",
+  "night_profile": "Windows Default Dark",
+  "scheduler_enabled": true,
+  "show_popup_warning": true,
+  "start_with_windows": true,
+  "startup_privileged": false,
+  "dark_theme": false,
+  "custom_profiles": {}
+}
